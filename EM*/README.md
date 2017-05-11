@@ -27,4 +27,4 @@
    * breast.cancer.txt
    * census.txt
    * galaxySurveyDataSet.txt
-   * synthetic data sets: 16 different multivariate gaussian data sets
+   * synthetic data sets: 16 different MVN data sets
