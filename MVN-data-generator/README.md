@@ -4,7 +4,7 @@ Generating high dimensional MVN data.
 
 ## Usage:
 
-1. source(?MVN-data-generator.R?)
+1. source(`MVN-data-generator.R`)
 
 2. mix.MVN.data.generator(n,d,k,mu1)
 
