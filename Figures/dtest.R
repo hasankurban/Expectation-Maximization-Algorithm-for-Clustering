@@ -1,3 +1,5 @@
+#Synthetic Data Experiments: Dimensionality
+
 dtest <- data.frame(matrix(ncol = 5, nrow = 22))
 names(dtest) <- c("iterationCount","executionTime", "accuracy","Algorithm","d")
 dtest[1,] <- c(228,56,100,1,20)
