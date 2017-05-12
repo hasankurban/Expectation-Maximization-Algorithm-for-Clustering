@@ -1,3 +1,6 @@
+#Synthetic Data Experiments: Cluster Numbers
+
+
 ktest <- data.frame(matrix(ncol = 5, nrow = 20))
 names(ktest) <- c("iterationCount","executionTime", "accuracy","Algorithm","k")
 ktest[1,] <- c(199,17,100,1,10)
