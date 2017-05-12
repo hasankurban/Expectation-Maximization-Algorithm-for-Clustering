@@ -1,3 +1,6 @@
+#Synthetic Data Experiments: Data Size
+
+
 ntest <- data.frame(matrix(ncol = 5, nrow = 14))
 names(ntest) <- c("iterationCount","executionTime", "accuracy","Algorithm","n")
 ntest[1,] <- c(490,10782,100,1,1.5)
