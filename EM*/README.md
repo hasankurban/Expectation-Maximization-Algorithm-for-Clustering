@@ -8,7 +8,7 @@
  
    * k : number of clusters
 
-   * iteration: maximum number of iterations, such as 1K, 10K e.g.,
+   * iteration: maximum number of iterations, such as 1000, 10000 e.g.,
 
    * epsilon: stopping criterion = 0.01 for EM*
 
